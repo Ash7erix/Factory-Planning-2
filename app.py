@@ -114,7 +114,7 @@ st.markdown("""
     </style>
     <div class="container-c1">
         <br><p> For a detailed view of the mathematical formulation, please visit my 
-        <a href="https://github.com/Ash7erix/Model_Building_Assignments/tree/main/12.3_Factory_Planning">Github</a> page.</p>
+        <a href="https://github.com/Ash7erix/Model_Building_Assignments/tree/main/12.4_Factory_Planning_Continued">Github</a> page.</p>
 
     </div>
 """, unsafe_allow_html=True)
