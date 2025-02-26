@@ -77,7 +77,7 @@ st.markdown("""
         }
     </style>
     <div class="title-bar">
-        <h1>Problem 12.3 <br> Factory Planning</h1>
+        <h1>Problem 12.4 <br> Factory Planning 2</h1>
         <div>
             <a href="https://decisionopt.com" target="_blank">
                 <img src="https://decisionopt.com/static/media/DecisionOptLogo.7023a4e646b230de9fb8ff2717782860.svg" class="logo1" alt="Logo"/>
